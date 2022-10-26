@@ -1,1 +1,1 @@
-# 2022_PEOOVS_T2
+# Disciplina de Programação Estruturada e Orientada a Objetos - 2022
